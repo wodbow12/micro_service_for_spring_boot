@@ -5,6 +5,6 @@
 
 
 ## 개발 환경
-* OS : Windows 10 pro and Ubuntu for WSL
+* OS : Windows 10 pro, Ubuntu for WSL
 * IDE : spring tool suite 4
 
